@@ -17,7 +17,7 @@ Tested with Truffle@beta (v3.0.0-3).
 
 ## Developing
 
-`npm install`  
+`npm install`
 `npm install -g webpack` `npm install -g truffle` `truffle serve`
 
 ## Contributing
