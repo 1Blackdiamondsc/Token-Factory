@@ -16,7 +16,7 @@
     "ether-pudding": "^2.0.0",
     "extract-text-webpack-plugin": "^1.0.1",
     "font-awesome": "4.5.0",
-    "history": "1.14.0",
+    "history": "1.17.0",
     "imports-loader": "^0.6.5",
     "jquery": ">=3.5.0",
     "json-loader": "^0.5.4",
