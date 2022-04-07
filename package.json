@@ -26,9 +26,9 @@
     "react-mixin": "^3.0.5",
     "react-router": "1.0.3",
     "reflux-tx": "0.2.4",
-    "sass-loader": "^3.1.2",
+    "sass-loader": "^6.0.7",
     "style-loader": "^0.23.1",
-    "uport-lib": "^1.3.1",
+    "uport-lib": "^2.1.1",
     "web3": "1.4.0",
     "webpack": "^5.0.0"
   },
